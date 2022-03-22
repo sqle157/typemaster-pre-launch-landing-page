@@ -206,7 +206,7 @@ body {
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
 	gap: 2.5rem;
-	margin-bottom: 6rem;
+	margin-bottom: 7rem;
 }
 
 .feature__item {
