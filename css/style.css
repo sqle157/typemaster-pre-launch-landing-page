@@ -101,7 +101,7 @@ body {
 /* Nav Section */
 .header {
 	width: 100%;
-	padding-block: 3.5rem;
+	padding-block: 2.5rem;
 }
 
 .nav {
@@ -121,7 +121,7 @@ body {
 .keyboard-type {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
-	margin-bottom: 5rem;
+	margin-bottom: 2rem;
 }
 
 .keyboard-type__intro {
@@ -211,7 +211,7 @@ body {
 
 /* Footer */
 .footer {
-	padding: 4rem;
+	padding: 3rem;
 	text-align: center;
 }
 
