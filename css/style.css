@@ -144,6 +144,11 @@ body {
 	margin-right: 2rem;
 }
 
+.keyboard-type__img {
+	max-width: 540px;
+	max-height: 480px;
+}
+
 .pattern {
 	width: 255px;
 	height: 240px;
@@ -158,9 +163,9 @@ body {
 /* Keyboard-wireless */
 .keyboard-wireless {
 	display: grid;
-	grid-template-columns: 1.5fr 2.5fr 2fr;
+	grid-template-columns: 1.45fr 2.5fr 2fr;
 	gap: 2rem;
-	margin-bottom: 10rem;
+	margin-bottom: 9rem;
 }
 
 .keyboard-wireless > div:first-child {
@@ -211,7 +216,7 @@ body {
 
 /* Footer */
 .footer {
-	padding: 3rem;
+	padding: 1.5rem;
 	text-align: center;
 }
 
