@@ -101,7 +101,8 @@ body {
 /* Nav Section */
 .header {
 	width: 100%;
-	padding-block: 2.5rem;
+	padding-top: 3rem;
+	margin-bottom: 3rem;
 }
 
 .nav {
@@ -113,7 +114,7 @@ body {
 /* Main Section */
 .main {
 	width: 100%;
-	padding-top: 2.5rem;
+	padding-top: 3rem;
 	overflow-x: hidden;
 }
 
